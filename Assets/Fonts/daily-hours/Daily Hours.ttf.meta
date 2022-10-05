@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b5a91f693462964429099f07859599b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Daily Hours
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a525533cc0c042d4e8d5d8312ea647e5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dd9078a570fdb3146a60da88bdcd0aa2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GalacticaGrid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b4432f6d92e4be479762e2e45d5a0e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

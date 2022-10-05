@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 49b07e5c54aa0fc4695ddc12615c7e18
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shakerato-PERSONAL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1616519a71376f14b85a51933e6d0310, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
